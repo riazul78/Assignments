@@ -69,6 +69,35 @@ h2{
 .for-color{
             color: grey;
 }
-#part{
+#btn-part{
          margin-top: 30px;
+}
+#third-part{
+                text-align: center;
+                margin-top: 100px;  
+                padding-bottom: 300px;                   
+}
+.flexibility{
+                 float: left;
+                 position:relative;
+                 width: 100%;
+                 margin-left: 100px;             
+}
+.plans{
+          border: 1px solid white;
+          border-radius: 5px;
+          width: 25%; 
+          height: 200px;     
+          margin-left:10px; 
+          text-align: left;
+          padding: 10px;
+}
+#box-1{
+        background-color:rgba(200, 241, 241, 0.885);
+}
+#box-2{
+          background-color: rgb(240, 205, 211);
+}
+#box-3{
+         background-color: rgb(251, 231, 193);
 }
